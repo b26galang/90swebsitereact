@@ -22,7 +22,7 @@ function App() {
     { name: 'Smash Tournament', time: '4pm-10pm', date: '10/1'},
     { name: 'Street Fighter II: The Animated Movie', time: '6pm-8pm', date: '10/7'},
     { name: 'Midnight Release - Legend of Zelda: Ocarina of Time', time: '12am', date: '11/21'},
-    { name: 'Board Games', time: '7pm-9pm', date: '11/27'}
+    { name: 'Board Games', time: '7pm-9pm', date:''}
   ]
 
   const bodyStyles: React.CSSProperties = {
