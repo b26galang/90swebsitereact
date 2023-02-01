@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.fec9d116.css",
-    "main.js": "/static/js/main.d9f92dda.js",
-    "index.html": "/index.html",
-    "main.d9f92dda.js.map": "/static/js/main.d9f92dda.js.map"
+    "main.css": "/90websitereact/static/css/main.fec9d116.css",
+    "main.js": "/90websitereact/static/js/main.d9f92dda.js",
+    "index.html": "/90websitereact/index.html",
+    "main.d9f92dda.js.map": "/90websitereact/static/js/main.d9f92dda.js.map"
   },
   "entrypoints": [
     "static/css/main.fec9d116.css",
